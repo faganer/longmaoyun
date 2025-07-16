@@ -35,4 +35,4 @@ A: TotoroCloud龙猫云机场提供 IPLC 专线和优化的 BGP 路由，确保�
 
 ---
 
-📝 订阅或了解更多信息，请访问 [TotoroCloud龙猫云官网](https://jump.p6p.net/289)。
+📝 订阅或了解更多信息，请访问 [TotoroCloud龙猫云官网](https://tiao.bid/289)。
